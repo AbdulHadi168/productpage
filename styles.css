@@ -1,7 +1,7 @@
 body{
   padding:0;
   margin:0;
-  width:100vw;
+  width:100%;
 }
 #video{
   width:60vw;
@@ -12,7 +12,7 @@ body{
   top:0;
   align-items:center;
   background-color:#5A5A5A;
-  width:100vw;
+  width:100%;
 }
 @media (max-width:600px){
   p{
